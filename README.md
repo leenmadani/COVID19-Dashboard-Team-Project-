@@ -7,3 +7,8 @@ My repositories contain projects that I worked on throughout my master's year. I
 The projects are primarily relevant to data science in health, where I attempt to answer a research question through a thorough analysis of a dataset. The process involves data cleaning and the usage of a lot of statistical techniques (regression models, survival analysis, machine learning, classification, etc..).
 
 If you have any questions, please email me at leen.madani@mail.utoronto.ca
+
+
+**********************
+
+The final dashboard of this project can be accessed using this link: https://rpubs.com/MarekKTwarog/1074650
